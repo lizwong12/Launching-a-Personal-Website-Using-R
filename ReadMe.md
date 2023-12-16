@@ -4,4 +4,5 @@ Build your personal website, blog, or portfolio using R with the dynamic combina
 * Step 1 - Set up the GitHub repository
     * Create a new repository
     * Initialize a local git repository (see deploy.sh)
-    * 
+    * Generate a PAT - [LINK](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+  * Push updates to GitHub (see push_to_git.sh) 
